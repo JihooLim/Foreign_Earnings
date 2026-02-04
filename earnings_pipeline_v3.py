@@ -14,8 +14,8 @@ from openpyxl.formatting.rule import CellIsRule
 # ==========================================
 # 설정
 # ==========================================
-INPUT_CSV = "260202_Earnings.csv"  # 입력 CSV
-OUTPUT_FILE = "해외빨간줄_완성.xlsx"  # 최종 출력
+INPUT_CSV = "260203_Earnings.csv"  # 입력 CSV
+OUTPUT_FILE = "해외빨간줄_260203.xlsx"  # 최종 출력
 OUTPUT_FAILED = "failed_tickers.xlsx"  # 실패 목록
 
 NUM_QUARTERS = 17
