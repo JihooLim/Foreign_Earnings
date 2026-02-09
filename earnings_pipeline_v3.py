@@ -14,12 +14,12 @@ from openpyxl.formatting.rule import CellIsRule
 # ==========================================
 # 설정
 # ==========================================
-INPUT_CSV = "260205_Earnings.csv"  # 입력 CSV
-OUTPUT_FILE = "해외빨간줄_260205.xlsx"  # 최종 출력
+INPUT_CSV = "260206_Earnings.csv"  # 입력 CSV
+OUTPUT_FILE = "해외빨간줄_260206.xlsx"  # 최종 출력
 OUTPUT_FAILED = "failed_tickers.xlsx"  # 실패 목록
 
 NUM_QUARTERS = 17
-MAX_WORKERS = 4
+MAX_WORKERS = 6
 
 # 최신 실적 기준 (이것보다 오래되면 맨 아래로)
 # Oct 2025 이상만 정상 (Q4 2025 = Oct~Dec)
