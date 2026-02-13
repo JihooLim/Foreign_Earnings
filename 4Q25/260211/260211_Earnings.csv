@@ -1,0 +1,256 @@
+﻿Ticker,Company,Date,Time,Quarter Ending,Market Cap
+CSCO,"Cisco Systems, Inc.",11-Feb-26,After Hours,Jan-26,3.35132E+11
+MCD,McDonald's Corporation,11-Feb-26,Pre Market,Dec-25,2.32988E+11
+TMUS,"T-Mobile US, Inc.",11-Feb-26,Pre Market,Dec-25,2.20782E+11
+TTE,TotalEnergies SE,11-Feb-26,Pre Market,Dec-25,1.58504E+11
+ENR,Siemens Energy AG,11-Feb-26,,Dec-25,1.53697E+11
+SHOP,Shopify Inc.,11-Feb-26,Pre Market,Dec-25,1.45872E+11
+EL,EssilorLuxottica Société anonyme,11-Feb-26,,Dec-25,1.39685E+11
+APP,AppLovin Corporation,11-Feb-26,,Dec-25,1.37453E+11
+EQIX,"Equinix, Inc.",11-Feb-26,After Hours,Dec-25,83273580000
+9999,"NetEase, Inc.",11-Feb-26,Pre Market,Dec-25,76373890000
+VRT,Vertiv Holdings Co,11-Feb-26,,Dec-25,74777730000
+HLT,Hilton Worldwide Holdings Inc.,11-Feb-26,Pre Market,Dec-25,73072970000
+MSI,"Motorola Solutions, Inc.",11-Feb-26,After Hours,Dec-25,70316190000
+MFC,Manulife Financial Corporation,11-Feb-26,,Dec-25,63832820000
+HEIA,Heineken N.V.,11-Feb-26,,Dec-25,48177360000
+DB1,Deutsche Börse AG,11-Feb-26,,Dec-25,46473740000
+M&M,Mahindra & Mahindra Limited,11-Feb-26,,Dec-25,44093830000
+CBK,Commerzbank AG,11-Feb-26,,Dec-25,44071040000
+WCN,"Waste Connections, Inc.",11-Feb-26,After Hours,Dec-25,43311340000
+WAB,Westinghouse Air Brake Technologies Corporation,11-Feb-26,Pre Market,Dec-25,42110170000
+MLM,"Martin Marietta Materials, Inc.",11-Feb-26,Pre Market,Dec-25,41611930000
+SCHN,Schindler Holding AG,11-Feb-26,,Dec-25,41593240000
+GWO,Great-West Lifeco Inc.,11-Feb-26,,Dec-25,40839990000
+AD,Koninklijke Ahold Delhaize N.V.,11-Feb-26,,Dec-25,36762390000
+SLF,Sun Life Financial Inc.,11-Feb-26,After Hours,Dec-25,36091530000
+DSY,Dassault Systèmes SE,11-Feb-26,,Dec-25,34523110000
+ROL,"Rollins, Inc.",11-Feb-26,After Hours,Dec-25,30182570000
+ABN,ABN AMRO Bank N.V.,11-Feb-26,,Dec-25,29684530000
+KHC,The Kraft Heinz Company,11-Feb-26,Pre Market,Dec-25,29167350000
+AEE,Ameren Corporation,11-Feb-26,After Hours,Dec-25,28426310000
+NST,Northern Star Resources Limited,11-Feb-26,,Dec-25,25685720000
+ML,Compagnie Générale des Établissements Michelin Société en commandite par actions,11-Feb-26,,Dec-25,23988870000
+HUM,Humana Inc.,11-Feb-26,Pre Market,Dec-25,23325760000
+GFS,GlobalFoundries Inc.,11-Feb-26,Pre Market,Dec-25,22916310000
+BBAS3,Banco do Brasil S.A.,11-Feb-26,,Dec-25,22690720000
+SW,Smurfit Westrock Plc,11-Feb-26,,Dec-25,22245970000
+NI,NiSource Inc.,11-Feb-26,,Dec-25,20637580000
+IQCD,Industries Qatar Q.P.S.C.,11-Feb-26,,Dec-25,20607060000
+SGSN,SGS SA,11-Feb-26,,Dec-25,20449650000
+CW,Curtiss-Wright Corporation,11-Feb-26,After Hours,Dec-25,20271200000
+HEIO,Heineken Holding N.V.,11-Feb-26,,Dec-25,19927310000
+TYL,"Tyler Technologies, Inc.",11-Feb-26,After Hours,Dec-25,18932630000
+7936,ASICS Corporation,11-Feb-26,,Dec-25,18490100000
+THC,Tenet Healthcare Corporation,11-Feb-26,Pre Market,Dec-25,17935250000
+GRAB,Grab Holdings Limited,11-Feb-26,After Hours,Dec-25,17901060000
+DIVISLAB,Divi's Laboratories Limited,11-Feb-26,,Dec-25,17540560000
+GFL,GFL Environmental Inc.,11-Feb-26,After Hours,Dec-25,16940710000
+HUBS,"HubSpot, Inc.",11-Feb-26,After Hours,Dec-25,16338010000
+AKRBP,Aker BP ASA,11-Feb-26,,Dec-25,16285480000
+U,Unity Software Inc.,11-Feb-26,Pre Market,Dec-25,16009200000
+IFF,International Flavors & Fragrances Inc.,11-Feb-26,,Dec-25,15935930000
+JBS,JBS N.V.,11-Feb-26,,Dec-25,15914980000
+LATO B,Investment AB Latour (publ),11-Feb-26,,Dec-25,15764710000
+RPRX,Royalty Pharma plc,11-Feb-26,Pre Market,Dec-25,15592810000
+A011200,"HMM Co.,Ltd",11-Feb-26,,Dec-25,14880810000
+ENX,Euronext N.V.,11-Feb-26,,Dec-25,14592820000
+PME,Pro Medicus Limited,11-Feb-26,,Dec-25,14199460000
+ORG,Origin Energy Limited,11-Feb-26,,Dec-25,13906550000
+SN,"SharkNinja, Inc.",11-Feb-26,Pre Market,Dec-25,13844210000
+NBIX,"Neurocrine Biosciences, Inc.",11-Feb-26,After Hours,Dec-25,13590840000
+REC,Recordati Industria Chimica e Farmaceutica S.p.A.,11-Feb-26,,Dec-25,12998000000
+IAG,Insurance Australia Group Limited,11-Feb-26,,Dec-25,12913390000
+PHOR,Public Joint-Stock Company PhosAgro,11-Feb-26,,Dec-25,12468870000
+ASND,Ascendis Pharma A/S,11-Feb-26,After Hours,Dec-25,12356130000
+8113,Unicharm Corporation,11-Feb-26,,Dec-25,11632460000
+PAG,"Penske Automotive Group, Inc.",11-Feb-26,Pre Market,Dec-25,11510870000
+PAYC,"Paycom Software, Inc.",11-Feb-26,After Hours,Dec-25,11355960000
+SCI,Service Corporation International,11-Feb-26,After Hours,Dec-25,11246750000
+MOWI,Mowi ASA,11-Feb-26,,Dec-25,11155460000
+TIMS3,TIM S.A.,11-Feb-26,,Dec-25,10611910000
+ALB,Albemarle Corporation,11-Feb-26,After Hours,Dec-25,10381990000
+BG,BAWAG Group AG,11-Feb-26,,Dec-25,10376130000
+AR,Antero Resources Corporation,11-Feb-26,After Hours,Dec-25,10293580000
+RXL,Rexel S.A.,11-Feb-26,,Dec-25,9845600000
+AVTR,"Avantor, Inc.",11-Feb-26,Pre Market,Dec-25,9742050000
+GNRC,Generac Holdings Inc.,11-Feb-26,Pre Market,Dec-25,9720170000
+IPG,"The Interpublic Group of Companies, Inc.",11-Feb-26,,Dec-25,9706060000
+BWA,BorgWarner Inc.,11-Feb-26,Pre Market,Dec-25,9681420000
+PPC,Pilgrim's Pride Corporation,11-Feb-26,After Hours,Dec-25,9672930000
+YAR,Yara International ASA,11-Feb-26,,Dec-25,9429340000
+WTS,"Watts Water Technologies, Inc.",11-Feb-26,After Hours,Dec-25,9419340000
+PSN,Parsons Corporation,11-Feb-26,Pre Market,Dec-25,9342320000
+A066570,LG Electronics Inc.,11-Feb-26,,Dec-25,9317390000
+AM,Antero Midstream Corporation,11-Feb-26,After Hours,Dec-25,9134580000
+PRI,"Primerica, Inc.",11-Feb-26,After Hours,Dec-25,9036860000
+QS,QuantumScape Corporation,11-Feb-26,After Hours,Dec-25,9011070000
+CFLT,"Confluent, Inc.",11-Feb-26,After Hours,Dec-25,8521680000
+S32,South32 Limited,11-Feb-26,,Dec-25,8272730000
+LAD,"Lithia Motors, Inc.",11-Feb-26,Pre Market,Dec-25,8228280000
+AUR,"Aurora Innovation, Inc.",11-Feb-26,,Dec-25,8186620000
+TSEM,Tower Semiconductor Ltd.,11-Feb-26,Pre Market,Dec-25,8139000000
+NNN,"NNN REIT, Inc.",11-Feb-26,Pre Market,Dec-25,8083640000
+BGN,Banca Generali S.p.A.,11-Feb-26,,Dec-25,7887400000
+R,"Ryder System, Inc.",11-Feb-26,Pre Market,Dec-25,7881160000
+CGNX,Cognex Corporation,11-Feb-26,After Hours,Dec-25,7773720000
+BTRW,Barratt Redrow plc,11-Feb-26,,Dec-25,7287310000
+STB,Storebrand ASA,11-Feb-26,,Dec-25,7239440000
+PATANJALI,Patanjali Foods Limited,11-Feb-26,,Dec-25,7225770000
+NEOE3,Neoenergia S.A.,11-Feb-26,,Dec-25,6974340000
+VOE,Voestalpine AG,11-Feb-26,,Dec-25,6912880000
+STAG,"STAG Industrial, Inc.",11-Feb-26,,Dec-25,6896680000
+CTC.A,"Canadian Tire Corporation, Limited",11-Feb-26,,Dec-25,6896180000
+A071050,"Korea Investment Holdings Co., Ltd.",11-Feb-26,,Dec-25,6642400000
+RAND,Randstad N.V.,11-Feb-26,,Dec-25,6632630000
+NEU,NewMarket Corporation,11-Feb-26,After Hours,Dec-25,6608150000
+MSA,MSA Safety Incorporated,11-Feb-26,,Dec-25,6593990000
+MFSL,Max Financial Services Limited,11-Feb-26,,Dec-25,6502640000
+DAR,Darling Ingredients Inc.,11-Feb-26,After Hours,Dec-25,5941470000
+EPRT,"Essential Properties Realty Trust, Inc.",11-Feb-26,After Hours,Dec-25,5882910000
+SITE,"SiteOne Landscape Supply, Inc.",11-Feb-26,Pre Market,Dec-25,5872140000
+SWEC B,Sweco AB (publ),11-Feb-26,,Dec-25,5807060000
+TMHC,Taylor Morrison Home Corporation,11-Feb-26,Pre Market,Dec-25,5760890000
+FNOX,Fortnox AB (publ),11-Feb-26,,Dec-25,5723910000
+TOTS3,TOTVS S.A.,11-Feb-26,,Dec-25,5294850000
+CPA,"Copa Holdings, S.A.",11-Feb-26,After Hours,Dec-25,5244700000
+ALKS,Alkermes plc,11-Feb-26,,Dec-25,5185520000
+AIRARABIA,Air Arabia PJSC,11-Feb-26,,Dec-25,5043500000
+1U1,1&1 AG,11-Feb-26,,Dec-25,4845880000
+SIGMAF A,"Sigma Foods, S.A.B. de C.V.",11-Feb-26,,Dec-25,4824160000
+NE,Noble Corporation plc,11-Feb-26,After Hours,Dec-25,4748860000
+WFG,West Fraser Timber Co. Ltd.,11-Feb-26,,Dec-25,4693260000
+QTWO,"Q2 Holdings, Inc.",11-Feb-26,After Hours,Dec-25,4660990000
+IFS,Intercorp Financial Services Inc.,11-Feb-26,After Hours,Dec-25,4543150000
+CLBT,Cellebrite DI Ltd.,11-Feb-26,Pre Market,Dec-25,4522680000
+AMR,Americana Restaurants International PLC,11-Feb-26,,Dec-25,4482200000
+AM,Antero Midstream Partners LP,11-Feb-26,,Dec-25,4469700000
+500164,Godrej Industries Limited,11-Feb-26,,Dec-25,4401280000
+WAWI,Wallenius Wilhelmsen ASA,11-Feb-26,,Dec-25,4372100000
+KLBN11,Klabin S.A.,11-Feb-26,,Dec-25,4140140000
+SGKN,St. Galler Kantonalbank AG,11-Feb-26,,Dec-25,4135730000
+NWE,"NorthWestern Energy Group, Inc.",11-Feb-26,,Dec-25,4114270000
+IRT,"Independence Realty Trust, Inc.",11-Feb-26,After Hours,Dec-25,4010650000
+INTR,"Inter & Co, Inc.",11-Feb-26,,Dec-25,3977970000
+A241560,Doosan Bobcat Inc.,11-Feb-26,,Dec-25,3834700000
+INSP,"Inspire Medical Systems, Inc.",11-Feb-26,After Hours,Dec-25,3797090000
+GQG,GQG Partners Inc.,11-Feb-26,,Dec-25,3466530000
+KAI,Kadant Inc.,11-Feb-26,,Dec-25,3439570000
+RYN,Rayonier Inc.,11-Feb-26,After Hours,Dec-25,3431970000
+TEX,Terex Corporation,11-Feb-26,Pre Market,Dec-25,3415140000
+RSW,Renishaw plc,11-Feb-26,,Dec-25,3380920000
+CXT,"Crane NXT, Co.",11-Feb-26,After Hours,Dec-25,3280520000
+SJVN,SJVN Limited,11-Feb-26,,Dec-25,3228230000
+523610,ITI Limited,11-Feb-26,,Dec-25,3217770000
+MH,"McGraw Hill, Inc.",11-Feb-26,After Hours,Dec-25,3178270000
+VERX,"Vertex, Inc.",11-Feb-26,Pre Market,Dec-25,3153870000
+PLMR,"Palomar Holdings, Inc.",11-Feb-26,After Hours,Dec-25,3144960000
+BXMT,"Blackstone Mortgage Trust, Inc.",11-Feb-26,,Dec-25,3144020000
+AMP,AMP Limited,11-Feb-26,,Dec-25,3101710000
+GPSC,Global Power Synergy Public Company Limited,11-Feb-26,,Dec-25,3079180000
+MMB,Lagardere SA,11-Feb-26,,Dec-25,3032260000
+KOJAMO,Kojamo Oyj,11-Feb-26,,Dec-25,2931280000
+MLYS,"Mineralys Therapeutics, Inc.",11-Feb-26,,Dec-25,2864870000
+BRG,Breville Group Limited,11-Feb-26,,Dec-25,2842730000
+HTFL,"HeartFlow, Inc.",11-Feb-26,,Dec-25,2835520000
+TR,"Tootsie Roll Industries, Inc.",11-Feb-26,,Dec-25,2655860000
+1SXP,SCHOTT Pharma AG & Co. KGaA,11-Feb-26,,Dec-25,2655840000
+SINCH,Sinch AB (publ),11-Feb-26,,Dec-25,2649980000
+SRU.UN,SmartCentres Real Estate Investment Trust,11-Feb-26,,Dec-25,2643430000
+506285,Bayer CropScience Limited,11-Feb-26,,Dec-25,2551360000
+UE,Urban Edge Properties,11-Feb-26,Pre Market,Dec-25,2520850000
+PDN,Paladin Energy Ltd,11-Feb-26,,Dec-25,2493420000
+CEC,Ceconomy AG,11-Feb-26,,Dec-25,2475270000
+FCPT,"Four Corners Property Trust, Inc.",11-Feb-26,After Hours,Dec-25,2446250000
+DIALOG,Dialog Group Berhad,11-Feb-26,,Dec-25,2423520000
+KIOCL,KIOCL Limited,11-Feb-26,,Dec-25,2421780000
+MVV1,MVV Energie AG,11-Feb-26,,Dec-25,2415310000
+FIH.U,Fairfax India Holdings Corporation,11-Feb-26,,Dec-25,2411760000
+CHEF,"The Chefs' Warehouse, Inc.",11-Feb-26,Pre Market,Dec-25,2382550000
+ASAI3,Sendas Distribuidora S.A.,11-Feb-26,,Dec-25,2271940000
+HI,"Hillenbrand, Inc.",11-Feb-26,,Dec-25,2248520000
+WWI,Wilh. Wilhelmsen Holding ASA,11-Feb-26,,Dec-25,2141240000
+CXW,"CoreCivic, Inc.",11-Feb-26,After Hours,Dec-25,2099010000
+ENTRA,Entra ASA,11-Feb-26,,Dec-25,2082630000
+ARR,"ARMOUR Residential REIT, Inc.",11-Feb-26,,Dec-25,2054450000
+A145020,"Hugel, Inc.",11-Feb-26,,Dec-25,1941910000
+RUS,Russel Metals Inc.,11-Feb-26,,Dec-25,1936490000
+CLW,Charter Hall Long WALE REIT,11-Feb-26,,Dec-25,1933920000
+QDEL,QuidelOrtho Corporation,11-Feb-26,After Hours,Dec-25,1908200000
+IF,Banca IFIS S.p.A.,11-Feb-26,,Dec-25,1899040000
+SANOMA,Sanoma Oyj,11-Feb-26,,Dec-25,1890800000
+TVK,TerraVest Industries Inc.,11-Feb-26,,Dec-25,1852450000
+MONT,Montea Comm. VA,11-Feb-26,,Dec-25,1847060000
+A041510,"SM Entertainment Co., Ltd.",11-Feb-26,,Dec-25,1821020000
+TPW,Temple & Webster Group Ltd,11-Feb-26,,Dec-25,1813640000
+4003,United Electronics Company,11-Feb-26,,Dec-25,1799550000
+ORA,Orora Limited,11-Feb-26,,Dec-25,1774470000
+VECO,Veeco Instruments Inc.,11-Feb-26,,Dec-25,1747020000
+GTY,Getty Realty Corp.,11-Feb-26,,Dec-25,1682060000
+A139480,E-MART Inc.,11-Feb-26,,Dec-25,1593600000
+ANURAS,Anupam Rasayan India Ltd,11-Feb-26,,Dec-25,1528540000
+LEG,"Leggett & Platt, Incorporated",11-Feb-26,After Hours,Dec-25,1496570000
+ELGIEQUIP,Elgi Equipments Limited,11-Feb-26,,Dec-25,1464330000
+PMZ.UN,Primaris Real Estate Investment Trust,11-Feb-26,,Dec-25,1461010000
+BIR,Birchcliff Energy Ltd.,11-Feb-26,,Dec-25,1452410000
+KMP.UN,Killam Apartment REIT,11-Feb-26,,Dec-25,1414850000
+A003690,Korean Reinsurance Company,11-Feb-26,,Dec-25,1408830000
+A028670,"Pan Ocean Co., Ltd.",11-Feb-26,,Dec-25,1407080000
+A069960,Hyundai Department Store Co. Ltd.,11-Feb-26,,Dec-25,1393520000
+FSLY,"Fastly, Inc.",11-Feb-26,After Hours,Dec-25,1387930000
+FLNG,FLEX LNG Ltd.,11-Feb-26,,Dec-25,1382480000
+DOU,Douglas AG,11-Feb-26,,Dec-25,1351030000
+HCSG,"Healthcare Services Group, Inc.",11-Feb-26,Pre Market,Dec-25,1332310000
+CRAYN,Crayon Group Holding ASA,11-Feb-26,,Dec-25,1274050000
+7817,"Paramount Bed Holdings Co., Ltd.",11-Feb-26,,Dec-25,1252650000
+4041,"Nippon Soda Co., Ltd.",11-Feb-26,,Dec-25,1243800000
+KAR,Karnov Group AB (publ),11-Feb-26,,Dec-25,1241230000
+A50,Thomson Medical Group Limited,11-Feb-26,,Dec-25,1183160000
+TITAGARH,Titagarh Rail Systems Limited,11-Feb-26,,Dec-25,1166160000
+NCH2,thyssenkrupp nucera AG & Co. KGaA,11-Feb-26,,Dec-25,1138690000
+PX,"P10, Inc.",11-Feb-26,,Dec-25,1129850000
+LUMAXTECH,Lumax Auto Technologies Limited,11-Feb-26,,Dec-25,1123060000
+NORBT,Norbit ASA,11-Feb-26,,Dec-25,1114760000
+GLIB.A,"GCI Liberty, Inc.",11-Feb-26,,Dec-25,1079770000
+DAO,"Youdao, Inc.",11-Feb-26,,Dec-25,1078510000
+ZBIO,"Zenas BioPharma, Inc.",11-Feb-26,,Dec-25,1078410000
+CRTO,Criteo S.A.,11-Feb-26,Pre Market,Dec-25,1061490000
+CIM,Chimera Investment Corporation,11-Feb-26,,Dec-25,1054360000
+RDWR,Radware Ltd.,11-Feb-26,,Dec-25,1050240000
+SFL,SFL Corporation Ltd.,11-Feb-26,,Dec-25,1049100000
+513377,MMTC Limited,11-Feb-26,,Dec-25,1045920000
+PRCH,"Porch Group, Inc.",11-Feb-26,After Hours,Dec-25,1045280000
+PDM,"Piedmont Realty Trust, Inc.",11-Feb-26,After Hours,Dec-25,1028530000
+SAFE,Safehold Inc.,11-Feb-26,,Dec-25,1011760000
+LSS,Lectra SA,11-Feb-26,,Dec-25,1011580000
+BBOT,"BridgeBio Oncology Therapeutics, Inc.",11-Feb-26,,Dec-25,1009460000
+KEMPOWR,Kempower Oyj,11-Feb-26,,Dec-25,1001380000
+PD,Precision Drilling Corporation,11-Feb-26,After Hours,Dec-25,990330000
+ODF,Odfjell SE,11-Feb-26,,Dec-25,979090000
+BBTN,PT Bank Tabungan Negara (Persero) Tbk,11-Feb-26,,Dec-25,973620000
+3227,PixArt Imaging Inc.,11-Feb-26,,Dec-25,972830000
+6740,Japan Display Inc.,11-Feb-26,,Dec-25,913490000
+A071320,Korea District Heating Corp.,11-Feb-26,,Dec-25,853750000
+FBRT,"Franklin BSP Realty Trust, Inc.",11-Feb-26,After Hours,Dec-25,823410000
+NBR,Nabors Industries Ltd.,11-Feb-26,After Hours,Dec-25,795480000
+8074,"Yuasa Trading Co., Ltd.",11-Feb-26,,Dec-25,794520000
+RWT,"Redwood Trust, Inc.",11-Feb-26,After Hours,Dec-25,737290000
+CVG,Clairvest Group Inc.,11-Feb-26,,Dec-25,721640000
+FIA1S,Finnair Oyj,11-Feb-26,,Dec-25,713220000
+REG1V,Revenio Group Oyj,11-Feb-26,,Dec-25,692020000
+LPTH,"LightPath Technologies, Inc.",11-Feb-26,After Hours,Dec-25,662810000
+A112040,"Wemade Co.,Ltd.",11-Feb-26,,Dec-25,631180000
+VGI,VGI Public Company Limited,11-Feb-26,,Dec-25,630970000
+500390,Reliance Infrastructure Limited,11-Feb-26,,Dec-25,629910000
+STORY B,Storytel AB (publ),11-Feb-26,,Dec-25,629270000
+KRNT,Kornit Digital Ltd.,11-Feb-26,Pre Market,Dec-25,624310000
+SKL,Skellerup Holdings Limited,11-Feb-26,,Dec-25,608310000
+TBN,Tamboran Resources Corporation,11-Feb-26,After Hours,Dec-25,593160000
+VPG,"Vishay Precision Group, Inc.",11-Feb-26,Pre Market,Dec-25,586140000
+COOR,Coor Service Management Holding AB,11-Feb-26,,Dec-25,552150000
+KID,Kid ASA,11-Feb-26,,Dec-25,542000000
+532189,India Tourism Development Corporation Limited,11-Feb-26,,Dec-25,526020000
+500185,Hindustan Construction Company Limited,11-Feb-26,,Dec-25,519450000
+A025980,Ananti Inc.,11-Feb-26,,Dec-25,510480000
+RAIVV,Raisio plc,11-Feb-26,,Dec-25,507010000
+500404,Sunflag Iron and Steel Company Limited,11-Feb-26,,Dec-25,503880000
